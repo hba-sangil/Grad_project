@@ -1,0 +1,6 @@
+streamlit
+numpy
+pandas
+tensorflow
+train_test_split
+standardscaler
